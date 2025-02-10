@@ -34,7 +34,7 @@ console.log("hello")
 # 6. 이미지
 - ![사진](https://image.utoimage.com/preview/cp872722/2022/12/202212008462_500.jpg)
 
-- ![고양이](../markdown/assets/cat.png)
+- ![고양이](/assets/cat.png)
 
 # 7. 목록
 
@@ -50,3 +50,4 @@ console.log("hello")
 - 두번째
 - 세번째
 
+[출처](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
