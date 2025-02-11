@@ -16,11 +16,13 @@ command [options] [arguments]
 - options:
     - `-l` : 파일의 상세 정보 표시
     - `-a` : 숨김 파일 표시
+        - ls -a
 
     ## cd (chang directory)
     - 현재 작업 디렉토리를 변경합니다.
     - `cd {target-directory}`
          - target-directory는 자동완성 기능을 활용(TAB)
+            - cd Desktop/DAMF2/TIL
 
 ### pwd (print working directory)
 - 현재 작업 중인 디렉토리의 전체 경로를 출력.
