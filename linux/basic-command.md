@@ -39,6 +39,7 @@ command [options] [arguments]
 - 파일이나 폴더를 삭제.
 - options
     - `-r` : 디렉토리와 그 내용을 재귀적으로 삭제
+        - rm -r oo
 
 
     ### cat (concatenate)
